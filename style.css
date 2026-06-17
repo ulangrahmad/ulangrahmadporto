@@ -112,6 +112,12 @@ body {
   border-radius: 10px;
 }
 
+.cv-actions {
+    display: flex;
+    gap: 12px;
+    margin-top: 20px;
+}
+
 /* CONTENT */
 .content {
   margin-left: 250px;
